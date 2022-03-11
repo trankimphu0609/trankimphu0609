@@ -1,4 +1,4 @@
-### Hello! My name 's Phu 👋
+### Hello 👋, I'm Phu Tran
 
 <!--
 **trankimphu123/trankimphu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
