@@ -49,8 +49,8 @@
 <h2 align="center">🔥 GitHub Summary 🔥</h2>
 <div align=center>
   <a href="#" title="Most Used Languages">
-  <img  align="center" width="850" src="https://activity-graph.herokuapp.com/graphusername=trankimphu0609&bg_color=020203&color=1ef621&line=ff0f9b&point=430fff&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph"/>
-  <br /><br />
+  <img  align="center" width="850" src="https://activity-graph.herokuapp.com/graph?username=trankimphu0609&bg_color=020203&color=1ef621&line=ff0f9b&point=430fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+    <br /><br />/>
   </a>
 </div>
 
