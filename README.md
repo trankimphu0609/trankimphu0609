@@ -47,10 +47,6 @@
 
 <br>
 <a href="#" title="Most Used Languages">
-   <img  align="center" width="850" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trankimohu0609&theme=radical" />
-</a>
-<br /><br />
-<a href="#" title="Most Used Languages">
 <img  align="center" width="850" 
 src="https://activity-graph.herokuapp.com/graph?username=trankimphu0609&bg_color=020203&color=1ef621&line=ff0f9b&point=430fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
 <br /><br />
