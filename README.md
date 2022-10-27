@@ -1,7 +1,4 @@
 ### Hello 👋, I'm Tran Kim Phu
-- 🔭 I’m currently working on Sai Gon University
-- 🌱 I’m currently learning JAVA, KOTLIN, FLUTTER, REACTJS, REACTNATIVE, PHP
-- 💬 Ask me about JAVA, C/C++, PHP........
 
 <a href="#" target="_blank">
   <img src="svg/kimphu.svg" width="1200" alt="phutk" />
