@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Tran Kim Phu
 
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
   <img src="svg/kimphu.svg" width="1200" alt="phutk" />
 </a>
 <br>
@@ -15,7 +15,7 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trankimphu0609&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-
+ -->
 <br>
 <h2 align="center">🔥 GitHub Summary 🔥</h2>
 <div align=center>
