@@ -7,7 +7,7 @@
 &nbsp;
 <br />
 <br />
-## 🔥 GitHub Stats 🔥
+<h2 align="center">## 🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
   <a href="#" title="Github stats">
