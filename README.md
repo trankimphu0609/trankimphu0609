@@ -3,6 +3,8 @@
 &nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></span>
 &nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="54" height="54"/></span>
+&nbsp;
 ## 🔥 GitHub Stats 🔥
 <br>
 <div align=center>
