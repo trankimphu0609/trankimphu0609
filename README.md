@@ -5,6 +5,8 @@
 &nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="54" height="54"/></span>
 &nbsp;
+<br />
+<br />
 ## 🔥 GitHub Stats 🔥
 <br>
 <div align=center>
