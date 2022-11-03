@@ -1,6 +1,9 @@
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
   <img src="svg/kimphu.svg" width="1200" alt="phutk" />
-</a>
+</a> -->
+
+<a href="https://www.facebook.com/trankimphu0609/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
+<a href="https://www.instagram.com/trankimphu0609/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-fd009b?style=for-the-badge&logo=instagram&logoColor=white" alt="facebook"/></a>
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -21,19 +24,4 @@
     <br /><br />
   </a>
 </div>
-![snake gif](https://raw.githubusercontent.com/trankimphu0609/trankimphu0609/output/github-contribution-grid-snake.gif)
-<br>
-
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://facebook.com/trankimphu0609" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
-  </a>
-  <a href="https://instagram.com/trankimphu0609" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-</div>
-
 <br>
