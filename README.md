@@ -65,10 +65,10 @@ src="https://activity-graph.herokuapp.com/graph?username=trankimphu0609&bg_color
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://facebook.com/trankimphu0609" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="" />
   </a>
   <a href="https://instagram.com/trankimphu0609" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="" />
   </a>
 </div>
 
