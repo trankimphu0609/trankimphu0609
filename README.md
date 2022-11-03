@@ -55,7 +55,7 @@ src="https://activity-graph.herokuapp.com/graph?username=trankimphu0609&bg_color
 <br /><br />
 </a>
 
-![snake gif](https://raw.githubusercontent.com/minhtrung0110/minhtrung0110/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/trankimphu0609/trankimphu0609/output/github-contribution-grid-snake.gif)
 
 
 
