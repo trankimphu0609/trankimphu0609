@@ -25,8 +25,6 @@
 
 ![snake gif](https://raw.githubusercontent.com/trankimphu0609/trankimphu0609/output/github-contribution-grid-snake.gif)
 
-
-
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
