@@ -41,7 +41,7 @@
 </div>
 
 <br>
-<h2 align="center">## 🔥 GitHub Summary 🔥</h2>
+<h2 align="center">🔥 GitHub Summary 🔥</h2>
 <br>
 <br>
 <a href="#" title="Most Used Languages">
