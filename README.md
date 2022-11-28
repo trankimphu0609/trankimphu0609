@@ -1,6 +1,5 @@
 Hello, My name is Phu!!!
-
-
+-------------------------
 <!-- <a href="#" target="_blank">
   <img src="svg/kimphu.svg" width="1200" alt="" />
 </a> -->
@@ -57,7 +56,6 @@ src="https://activity-graph.herokuapp.com/graph?username=trankimphu0609&bg_color
 </a>
 
 ![snake gif](https://raw.githubusercontent.com/trankimphu0609/trankimphu0609/output/github-contribution-grid-snake.gif)
-
 
 
 <br>
