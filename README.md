@@ -1,5 +1,4 @@
 Hello, My name is Phu!!!
--------------------------
 <!-- <a href="#" target="_blank">
   <img src="svg/kimphu.svg" width="1200" alt="" />
 </a> -->
@@ -27,6 +26,8 @@ Hello, My name is Phu!!!
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
  -->
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
