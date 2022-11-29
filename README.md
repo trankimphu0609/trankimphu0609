@@ -43,6 +43,8 @@ Hello, My name is Phu!!!
   </a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
 <h2 align="center">🔥 GitHub Summary 🔥</h2>
 <br>
@@ -59,7 +61,7 @@ src="https://activity-graph.herokuapp.com/graph?username=trankimphu0609&bg_color
 
 ![snake gif](https://raw.githubusercontent.com/trankimphu0609/trankimphu0609/output/github-contribution-grid-snake.gif)
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
