@@ -56,7 +56,6 @@ Hello, My name is Phu!!!
 <a href="#" title="Most Used Languages">
 <img  align="center" width="850" 
 src="https://activity-graph.herokuapp.com/graph?username=trankimphu0609&bg_color=020203&color=1ef621&line=ff0f9b&point=430fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
-<br /><br />
 </a>
 
 ![snake gif](https://raw.githubusercontent.com/trankimphu0609/trankimphu0609/output/github-contribution-grid-snake.gif)
