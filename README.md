@@ -3,7 +3,7 @@ Hello, My name is Phu!!!
   <img src="svg/kimphu.svg" width="1200" alt="" />
 </a> -->
 
-<!-- <h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -25,7 +25,7 @@ Hello, My name is Phu!!!
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
- -->
+
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+an+Information+Technology+Engineer;I'm+a+Mobile+Developer;"></p>
