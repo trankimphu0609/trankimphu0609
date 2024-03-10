@@ -1,4 +1,3 @@
-Hello, My name is Phu!!!
 <!-- <a href="#" target="_blank">
   <img src="svg/kimphu.svg" width="1200" alt="" />
 </a> -->
