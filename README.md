@@ -30,7 +30,7 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+an+Information+Technology+Engineer;I'm+a+Mobile+Developer;"></p>
 
 <br></br>
-## 🔥 GitHub Stats 🔥
+## GitHub Stats 🔥🔥🔥
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -44,8 +44,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
-<h2 align="center">🔥 GitHub Summary 🔥</h2>
+<br></br>
+## GitHub Summary 🔥🔥🔥
 <br>
 <br>
 <a href="#" title="Most Used Languages">
