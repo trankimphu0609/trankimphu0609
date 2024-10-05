@@ -28,8 +28,6 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 
-<br></br>
-
 ## GitHub Stats 🔥🔥🔥
 <div align=center>
   <a href="#" title="">
@@ -52,14 +50,10 @@
   </a>
 </div>
 
-<br></br>
-
 ## GitHub Summary 🔥🔥🔥
 <a href="#" title="Most Used Languages">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trankimphu0609&theme=radical" />
 </a>
-
-<br></br>
 
 ## Connect With Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
 <!-- https://icons8.com -->
