@@ -2,7 +2,7 @@
   <img src="svg/kimphu.svg" width="1200" alt="" />
 </a> -->
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+## Languages and Tools 🥃🥇🎖🏆🎆
 <br>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -30,7 +30,7 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+an+Information+Technology+Engineer;I'm+a+Mobile+Developer;"></p>
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+## 🔥 GitHub Stats 🔥
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -53,14 +53,15 @@
 </a>
 <br /><br />
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+
+## Connect With Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"></a>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/trankimphu0609" target="blank">
+  <a href="https://facebook.com/tkp0609" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="" />
   </a>
-  <a href="https://instagram.com/trankimphu0609" target="blank">
+  <a href="https://instagram.com/tkp0609" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="" />
   </a>
 </div>
