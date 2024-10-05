@@ -7,7 +7,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Languages and Tools 🥃🥇🎖🏆🎆
-<br></br>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
@@ -30,8 +29,8 @@
 &nbsp;
 
 <br></br>
+
 ## GitHub Stats 🔥🔥🔥
-<br></br>
 <div align=center>
   <a href="#" title="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trankimphu0609&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
@@ -54,15 +53,15 @@
 </div>
 
 <br></br>
+
 ## GitHub Summary 🔥🔥🔥
-<br></br>
 <a href="#" title="Most Used Languages">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trankimphu0609&theme=radical" />
 </a>
 
 <br></br>
+
 ## Connect With Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
-<br></br>
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://facebook.com/tkp0609" target="blank">
@@ -72,5 +71,3 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="" />
   </a>
 </div>
-
-<br>
