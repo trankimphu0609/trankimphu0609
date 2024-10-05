@@ -51,7 +51,7 @@
 </div>
 
 ## GitHub Summary 🔥🔥🔥
-<a href="#" title="Most Used Languages">
+<a href="#" title="Most Used Languages" align=center>
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trankimphu0609&theme=radical" />
 </a>
 
