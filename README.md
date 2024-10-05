@@ -2,6 +2,9 @@
   <img src="svg/kimphu.svg" width="1200" alt="" />
 </a> -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+an+Information+Technology+Engineer;I'm+a+Mobile+Developer;"></p>
+
 ## Languages and Tools 🥃🥇🎖🏆🎆
 <br>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -26,8 +29,6 @@
 &nbsp;
 
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+an+Information+Technology+Engineer;I'm+a+Mobile+Developer;"></p>
 
 <br></br>
 ## GitHub Stats 🔥🔥🔥
