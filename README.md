@@ -54,7 +54,7 @@
 <br /><br />
 <br>
 
-## Connect With Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"></a>
+## Connect With Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
