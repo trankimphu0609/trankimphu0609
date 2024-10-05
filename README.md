@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Languages and Tools 🥃🥇🎖🏆🎆
-<br>
+<br></br>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
@@ -29,20 +29,14 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 
- 
-
 <br></br>
 ## GitHub Stats 🔥🔥🔥
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
+<br></br>
 <div align=center>
   <a href="#" title="">
-<!--     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trankimphu0609&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trankimphu0609&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-
   </a>
   <a href="#" title="">
-<!--     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trankimphu0609&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /> -->
     <img src="https://github-readme-stats.vercel.app/api?username=trankimphu0609&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trankimphu0609">
@@ -59,20 +53,16 @@
   </a>
 </div>
 
-
-
 <br></br>
 ## GitHub Summary 🔥🔥🔥
-<br>
-<br>
+<br></br>
 <a href="#" title="Most Used Languages">
-   <img  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trankimphu0609&theme=radical" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trankimphu0609&theme=radical" />
 </a>
-<br /><br />
-<br>
 
+<br></br>
 ## Connect With Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
-<br>
+<br></br>
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://facebook.com/tkp0609" target="blank">
