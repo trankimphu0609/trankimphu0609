@@ -51,9 +51,11 @@
 </div>
 
 ## GitHub Summary 🔥🔥🔥
+<div align=center>
 <a href="#" title="Most Used Languages">
-   <img align=center src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trankimphu0609&theme=radical" />
+   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trankimphu0609&theme=radical" />
 </a>
+</div>
 
 ## Connect With Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
 <!-- https://icons8.com -->
