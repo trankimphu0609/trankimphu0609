@@ -42,7 +42,21 @@
   <a href="#" title="">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trankimphu0609&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trankimphu0609">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trankimphu0609&theme=dracula"/>
+  </a>
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trankimphu0609&">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trankimphu0609&theme=dracula"/>
+  </a>
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trankimphu0609">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trankimphu0609&theme=dracula"/>
+  </a>
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trankimphu0609">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trankimphu0609&theme=dracula"/>
+  </a>
 </div>
+
+
 
 <br></br>
 ## GitHub Summary 🔥🔥🔥
