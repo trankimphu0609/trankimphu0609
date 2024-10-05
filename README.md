@@ -66,7 +66,7 @@
 <br>
 <br>
 <a href="#" title="Most Used Languages">
-   <img  align="center" width="850" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trankimphu0609&theme=radical" />
+   <img  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trankimphu0609&theme=radical" />
 </a>
 <br /><br />
 <br>
