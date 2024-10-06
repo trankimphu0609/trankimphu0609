@@ -55,12 +55,12 @@
 
 ## GitHub Summary 🔥🔥🔥
 <div align=center>
-<a href="#" title="Most Used Languages">
-   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trankimphu0609&theme=radical" />
-</a>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trankimphu0609" alt="trankimphu0609" /></a> </p>
-
+  <a href="#" title="Most Used Languages">
+     <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trankimphu0609&theme=radical" />
+  </a>
 </div>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trankimphu0609" alt="trankimphu0609" /></a> </p>
 
 ## Connect With Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
 <!-- https://icons8.com -->
