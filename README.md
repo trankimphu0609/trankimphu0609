@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=My+name's+Tran+Kim+Phu;I'm+Mobile+Developer;I'm+Web+Developer"></p> -->
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=我叫陈金富。;I'm+Mobile+Developer;I'm+Web+Developer"></p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=我的名字是陈金富。;I'm+Mobile+Developer;I'm+Web+Developer"></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
